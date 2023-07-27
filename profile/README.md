@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Our lab aims at understanding the neuronal correlates of learning, execution, and optimization of cognitive tasks. We are particularly interested in determining the roles of catecholamines – noradrenaline and dopamine – in these behavioral processes. Our main objective is to determine when catecholaminergic neurons are active during behavior, what are the inputs causing this activity, and how the release of dopamine and noradrenaline affects neuronal activity in target regions. Our ultimate goal is to use this understanding of the native function of catecholamines to develop new therapeutic treatments for neurological disorders and diseases.
 <!--
 
 **Here are some ideas to get you started:**
